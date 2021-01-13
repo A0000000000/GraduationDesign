@@ -1,2 +1,4 @@
-# GraduationDesign
-GraduationDesign
+# 毕业设计项目
+
+* 此项目是我大学的毕业设计项目
+* 此项目下将会保存我在完成毕业设计时, 所创建的文件, 资料等数据
