@@ -6,5 +6,7 @@
 
 ## 代码
 
-* [前端地址](https://github.com/A0000000000/EnterprisePortal-FrontEnd)
-* [后端地址](https://github.com/A0000000000/EnterprisePortal-BackEnd)   
+* [前端地址 GitHub](https://github.com/A0000000000/EnterprisePortal-FrontEnd)
+* [前端地址 Gitlab](http://cloud.kunma.net:8087/20171222181/EnterprisePortal-FrontEnd)
+* [后端地址 GitHub](https://github.com/A0000000000/EnterprisePortal-BackEnd)
+* [后端地址 Gitlab](http://cloud.kunma.net:8087/20171222181/EnterprisePortal-BackEnd)   
